@@ -1,0 +1,74 @@
+body{
+    background-image: url("background.jpg");
+    background-size: 100%auto;
+    margin-left: 200px;
+    margin-top: 50px;
+
+}
+.container{
+    
+    background-color: black;
+    width: 950px;
+    height: 600px;
+    border: 50px solid black;
+    opacity: 0.7;
+    border-radius: 20px;
+    font-family: 'Ubuntu', sans-serif;
+}
+*{
+    box-sizing: border-box;
+    margin: 0;
+}
+
+nav{
+    text-align: center;
+    background-color: rgb(64, 255, 47);
+    width: 720px;
+    height: 50px;
+}
+
+
+header{
+    text-align: center;
+    color: rgb(64, 255, 47);
+}
+
+.logo{
+    width: 200px;
+    
+    
+}
+
+button{
+    margin-top: 15px;
+}
+
+.Gino, .Mike, .Fede, nav{
+    color: white;
+    margin-left: 10px;
+    margin-top: 15px;
+}
+    
+.caricagino{
+    background-color: orange;
+    width: 300px;
+    height: 20px;
+    border-radius: 3px;
+    
+}
+
+.caricamike{
+    background-color: rgb(64, 255, 47);
+    width: 500px;
+    height: 20px;
+    border-radius: 3px;
+    
+
+}
+.caricafede{
+    background-color: red;
+    width: 120px;
+    height: 20px;
+    border-radius: 3px;
+}
+
